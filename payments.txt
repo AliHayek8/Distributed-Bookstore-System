@@ -1,0 +1,5 @@
+Ali paid: 50.0 for this book : Java Programming
+ahmad paid: 50.0 for this book : Python Basics
+ali paid: 50.0 for this book : Python Basics
+dia paid: 50.0 for this book : Networking Concepts
+omar paid: 50.0 for this book : Networking Concepts
